@@ -1,7 +1,6 @@
 package org.iclass.dao;
 
 import org.apache.ibatis.session.SqlSession;
-import org.iclass.vo.Community;
 import org.iclass.vo.CommunityComments;
 
 import mybatis.SqlSessionBean;
